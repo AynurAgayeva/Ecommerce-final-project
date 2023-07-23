@@ -109,7 +109,7 @@ const SingleCardBig: React.FC<propType> = ({
                       href="#"
                     >
                       <img
-                        src="https://jeanneoliver.com/wp-content/uploads/2014/03/myhomeapril82014-9_zps9cfb9293.jpg"
+                        src={"https://jeanneoliver.com/wp-content/uploads/2014/03/myhomeapril82014-9_zps9cfb9293.jpg"}
                         alt=""
                         width={"100%"}
                         height={"auto"}
@@ -122,7 +122,7 @@ const SingleCardBig: React.FC<propType> = ({
                       href="#"
                     >
                       <img
-                        src="https://images.squarespace-cdn.com/content/v1/570ee4b52eeb8126f678c9ae/1590364213040-0VBOZ70JCO4YVWKYW5R7/blog_K+Spencer+47+HR.jpg"
+                        src={"https://images.squarespace-cdn.com/content/v1/570ee4b52eeb8126f678c9ae/1590364213040-0VBOZ70JCO4YVWKYW5R7/blog_K+Spencer+47+HR.jpg"}
                         alt=""
                         width={"100%"}
                         height={"auto"}
@@ -135,7 +135,7 @@ const SingleCardBig: React.FC<propType> = ({
                       href="#"
                     >
                       <img
-                        src="https://images.squarespace-cdn.com/content/v1/570ee4b52eeb8126f678c9ae/d1368369-1a70-4410-be52-b52b3ac0cc68/Web+and+Insta+Res-9.jpg"
+                        src={"https://images.squarespace-cdn.com/content/v1/570ee4b52eeb8126f678c9ae/d1368369-1a70-4410-be52-b52b3ac0cc68/Web+and+Insta+Res-9.jpg"}
                         alt=""
                         width={"100%"}
                         height={"auto"}

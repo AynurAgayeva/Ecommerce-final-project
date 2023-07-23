@@ -29,7 +29,7 @@ const Gallery = () => {
         <div class="col-md-6">
           <div class="h-100 p-5  rounded-3" data-aos={"zoom-out-down"}>
             <img
-              src="http://ollis.like-themes.com/wp-content/uploads/2018/02/article_01-755x500.jpg"
+              src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/article_01-755x500.jpg"}
               width={"100%"}
               alt=""
             ></img>
@@ -39,7 +39,7 @@ const Gallery = () => {
         <div class="col-md-6">
           <div class=" p-5  rounded-3" data-aos={"zoom-out-right"}>
             <img
-              src="http://ollis.like-themes.com/wp-content/uploads/2018/02/article_02-755x500.jpg"
+              src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/article_02-755x500.jpg"}
               width={"100%"}
               alt=""
             ></img>
@@ -49,7 +49,7 @@ const Gallery = () => {
         <div class="col-md-6">
           <div class="h-100 p-5  rounded-3" data-aos={"zoom-out-down"}>
             <img
-              src="http://ollis.like-themes.com/wp-content/uploads/2018/02/article_05-755x500.jpg"
+              src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/article_05-755x500.jpg"}
               width={"100%"}
               alt=""
             ></img>
@@ -59,7 +59,7 @@ const Gallery = () => {
         <div class="col-md-6">
           <div class="p-5  rounded-3" data-aos={"zoom-out-right"}>
             <img
-              src="http://ollis.like-themes.com/wp-content/uploads/2018/02/article_09-755x500.jpg"
+              src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/article_09-755x500.jpg"}
               width={"100%"}
               alt=""
             ></img>
@@ -69,7 +69,7 @@ const Gallery = () => {
         <div class="col-md-6">
           <div class="h-100 p-5  rounded-3" data-aos={"zoom-out-down"}>
             <img
-              src="http://ollis.like-themes.com/wp-content/uploads/2018/02/article_16-755x500.jpg"
+              src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/article_16-755x500.jpg"}
               width={"100%"}
               alt=""
             ></img>

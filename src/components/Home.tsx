@@ -86,7 +86,7 @@ const Home: React.FC = () => {
                 <div className="col-10 col-sm-8  col-lg-6 mt-lg-5 py-lg-5">
                   <div className="main-right ms-lg-5">
                     <img
-                      src="http://ollis.like-themes.com/wp-content/uploads/2018/02/FUR_SLIDE_02.png"
+                      src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/FUR_SLIDE_02.png"}
                       alt=""
                     />
                   </div>
@@ -116,7 +116,7 @@ const Home: React.FC = () => {
                 <div className="col-10 col-sm-8  col-lg-6 mt-lg-5 py-lg-5">
                   <div className="main-right ms-lg-5" data-aos={"flip-left"}>
                     <img
-                      src="http://ollis.like-themes.com/wp-content/uploads/2018/02/FUR_SLIDE_01.png"
+                      src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/FUR_SLIDE_01.png"}
                       alt=""
                     />
                   </div>
@@ -145,7 +145,7 @@ const Home: React.FC = () => {
                 <div className="col-10 col-sm-8  col-lg-6 mt-lg-5 py-lg-5">
                   <div className="main-right ms-lg-5 ">
                     <img
-                      src="http://ollis.like-themes.com/wp-content/uploads/2018/02/FUR_SLIDE_03.png"
+                      src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/FUR_SLIDE_03.png"}
                       alt=""
                     />
                   </div>
@@ -401,7 +401,7 @@ const Home: React.FC = () => {
               </div>
 
               <img
-                src="http://ollis.like-themes.com/wp-content/uploads/2020/01/discount-chair-cut.png"
+                src={"http://ollis.like-themes.com/wp-content/uploads/2020/01/discount-chair-cut.png"}
                 alt=""
               />
             </div>
@@ -627,7 +627,7 @@ const Home: React.FC = () => {
               <div className="col-6 col-sm-6 col-md-4 col-lg-2 mb-4">
                 <div className="card1 p-5">
                   <img
-                    src="http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_01.png"
+                    src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_01.png"}
                     className="card-img-top logo-dark"
                     alt="..."
                   />
@@ -637,7 +637,7 @@ const Home: React.FC = () => {
               <div className="col-6 col-sm-6 col-md-4 col-lg-2 mb-4">
                 <div className="card1 p-4 mt-3">
                   <img
-                    src="http://ollis.like-themes.com/wp-content/uploads/2020/01/logo_02.png"
+                    src={"http://ollis.like-themes.com/wp-content/uploads/2020/01/logo_02.png"}
                     className="card-img-top logo-dark"
                     alt="..."
                   />
@@ -647,7 +647,7 @@ const Home: React.FC = () => {
               <div className="col-6 col-sm-6 col-md-4 col-lg-2 mb-4">
                 <div className="card1 p-5">
                   <img
-                    src="http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_03.png"
+                    src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_03.png"}
                     className="card-img-top logo-dark"
                     alt="..."
                   />
@@ -657,7 +657,7 @@ const Home: React.FC = () => {
               <div className="col-6 col-sm-6 col-md-4 col-lg-2 mb-4">
                 <div className="card1 p-5">
                   <img
-                    src="http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_04.png"
+                    src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_04.png"}
                     className="card-img-top logo-dark"
                     alt="..."
                   />
@@ -667,7 +667,7 @@ const Home: React.FC = () => {
               <div className="col-6 col-sm-6 col-md-4 col-lg-2 mb-4">
                 <div className="card1 p-5">
                   <img
-                    src="http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_05.png"
+                    src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_05.png"}
                     className="card-img-top logo-dark"
                     alt="..."
                   />
@@ -682,7 +682,7 @@ const Home: React.FC = () => {
               <div className="col-6 col-sm-6 col-md-4 col-lg-2 mb-4">
                 <div className="card1 p-5">
                   <img
-                    src="http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_06.png"
+                    src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/logo_06.png"}
                     className="card-img-top logo-dark"
                     alt="..."
                   />

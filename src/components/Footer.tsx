@@ -29,7 +29,7 @@ const Footer:React.FC = () => {
                 className=" d-flex align-items-center  mb-4  text-decoration-none"
               >
                 <img
-                  src="http://ollis.like-themes.com/wp-content/uploads/2018/02/ollis_logo_white_1x.png"
+                  src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/ollis_logo_white_1x.png"}
                   alt=""
                 />
               </a>

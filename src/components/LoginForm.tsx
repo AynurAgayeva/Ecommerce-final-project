@@ -66,7 +66,7 @@ useEffect(() => {
           <div className="row g-0">
             <div className="col-md-6 mb-5">
               <img
-                src="https://kamleshyadav.com/wp/inland/wp-content/uploads/2019/01/25.png"
+                src={"https://kamleshyadav.com/wp/inland/wp-content/uploads/2019/01/25.png"}
                 className="img-fluid rounded-start"
                 alt="..."
               />

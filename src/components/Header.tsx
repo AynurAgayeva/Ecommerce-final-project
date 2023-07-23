@@ -38,7 +38,7 @@ const Header:React.FC = () => {
               <a className="navbar-brand" href="#">
                 <img
                   className="logo-dark"
-                  src="http://ollis.like-themes.com/wp-content/uploads/2018/02/ollis_logo_1x.png"
+                  src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/ollis_logo_1x.png"}
                   alt=""
                 />
                 <img className="logo-white" src={logoLight} alt="" />

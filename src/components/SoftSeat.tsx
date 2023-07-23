@@ -42,7 +42,7 @@ const SoftSeat: React.FC = () => {
               </div>
 
               <img
-                src="http://ollis.like-themes.com/wp-content/uploads/2020/01/discount-chair-cut.png"
+                src={"http://ollis.like-themes.com/wp-content/uploads/2020/01/discount-chair-cut.png"}
                 alt=""
               />
             </div>

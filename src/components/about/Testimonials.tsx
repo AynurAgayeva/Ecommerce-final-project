@@ -43,7 +43,7 @@ const Testimonials: React.FC = () => {
                     <img
                       width={70}
                       height={70}
-                      src="http://ollis.like-themes.com/wp-content/uploads/2018/02/client-01-110x110.jpg"
+                      src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/client-01-110x110.jpg"}
                       alt=""
                     />
                   </div>
@@ -62,7 +62,7 @@ const Testimonials: React.FC = () => {
                     <img
                       width={70}
                       height={70}
-                      src="http://ollis.like-themes.com/wp-content/uploads/2018/02/client-02-110x110.jpg"
+                      src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/client-02-110x110.jpg"}
                       alt=""
                     />
                   </div>
@@ -82,7 +82,7 @@ const Testimonials: React.FC = () => {
                     <img
                       width={70}
                       height={70}
-                      src="http://ollis.like-themes.com/wp-content/uploads/2018/02/client-04-110x110.jpg"
+                      src={"http://ollis.like-themes.com/wp-content/uploads/2018/02/client-04-110x110.jpg"}
                       alt=""
                     />
                   </div>
