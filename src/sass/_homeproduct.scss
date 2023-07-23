@@ -1,0 +1,38 @@
+.container {
+  #online {
+    color: #b19777;
+    font-family: "Pinyon Script", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    text-transform: lowercase;
+  }
+  .future {
+    line-height: 1.3em;
+    z-index: 3;
+    position: relative;
+    margin: 0;
+    font-weight: 700;
+    font-size: 48px;
+  }
+  .row {
+    .card-con {
+      .card {
+        border: none;
+        ul {
+          opacity: 0;
+        }
+        .category {
+          opacity: 0;
+        }
+        &:hover {
+          .category,
+          ul {
+            opacity: 1;
+          }
+          box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        }
+      }
+    }
+  }
+  
+}

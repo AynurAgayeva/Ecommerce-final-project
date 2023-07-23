@@ -1,0 +1,47 @@
+.gallery {
+  .gallery-bg {
+    width: 100%;
+    background-image: url("../images/bg-all.jpg");
+    background-attachment: fixed;
+
+    h1 {
+      font-size: 48px;
+      font-weight: 700;
+      z-index: 11;
+      line-height: 1.15em;
+      color: #fff;
+      margin-bottom: 30px;
+    }
+    p {
+      a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #b19777;
+      }
+      i {
+        color: #fff;
+        font-size: 13px;
+      }
+      span {
+        font-size: 16px;
+        color: #fff;
+      }
+    }
+  }
+  .col-md-6 {
+    img {
+      opacity: 1;
+      &:hover {
+        opacity: 0.7;
+        transition: 1s all;
+      }
+    }
+    h1 {
+      font-size: 24px;
+      color: #181818;
+      box-shadow: none;
+      font-weight: bold;
+      font-family: "Mukta";
+    }
+  }
+}

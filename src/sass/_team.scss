@@ -1,0 +1,33 @@
+.team{
+    .container{
+        .teams{
+            .card-con{
+                position: relative;
+                    overflow-x: hidden;
+                .card1{
+                border: none;
+                  
+            
+                
+                    img{
+                        
+      opacity: 0.8;
+      border: 1px solid #ddd;
+                    }
+                    &:hover{
+                img{
+              opacity: 1;
+                    transform: scale(1.1);
+                    border: none;
+                  
+                }
+              
+              
+                  
+                    }
+                }
+               
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+.contact-bg {
+  width: 100%;
+  background-image: url("../images/bg-all.jpg");
+  .contact {
+    h1 {
+      font-size: 48px;
+      font-weight: 700;
+      z-index: 11;
+      line-height: 1.15em;
+      color: #fff;
+      margin-bottom: 30px;
+    }
+    p {
+      a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #b19777;
+      }
+      i {
+        color: #fff;
+        font-size: 13px;
+      }
+      span {
+        font-size: 16px;
+        color: #fff;
+      }
+    }
+  }
+}
+
+.blog-card {
+  position: relative;
+  .card-photo {
+
+  &:hover{
+
+      transform: scale(1.1);
+    transition: 1s all;
+
+  }
+  }
+  .card-body {
+    .icon {
+      i {
+        font-size: 14px;
+        color: #b19777;
+        span {
+          font-size: 11px;
+          margin-left: 8px;
+        }
+      }
+    }
+    font-family: "Open Sans", sans-serif;
+    a {
+      font-size: 13px;
+      line-height: 1.5em;
+
+      color: #b19777;
+      font-weight: 400;
+    }
+    p {
+      font-size: 14px;
+      line-height: 1.5em;
+      letter-spacing: 0.6px;
+      color: #181818;
+      font-weight: 400;
+    }
+    .card-title {
+      font-size: 18px;
+      font-weight: 700;
+      font-family: "Mukta";
+      color: #181818;
+      letter-spacing: 0.9px;
+    }
+  }
+}

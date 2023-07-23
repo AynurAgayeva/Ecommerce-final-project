@@ -1,0 +1,244 @@
+{
+  "lang": "EN",
+  "menu1": "Home",
+  "menu2": "About Us",
+  "dropmenu1": "Testimonials",
+  "dropmenu2": "Team",
+  "dropmenu3": "FAQ",
+  "dropmenu4": "Gallery",
+  "menu3": "Blog",
+  "menu4": "Products",
+  "dropmenu5": "Shop",
+    "dropmenu6": "Cart",
+  "dropmenu7": "Checkout",
+  "dropmenu8": "My account",
+  "menu5": "Pages",
+  "menu6": "Contact",
+  "menu7": "Log in",
+  "menu8": "Log out",
+  "menu9": "Search product",
+    "bannerHead": " Furniture &",
+  "bannerhead": "Interior Design Agency",
+  "bannerdesc":
+    "For each project we establish relationships with partners who we know will help us create added value for your project. .",
+  "bannerbtn": "SHOP NOW",
+  "bannerHead2": "Exclusive &",
+  "bannerhead2": "Leather Furniture",
+  "bannerHead3": "Planning &",
+  "bannerhead3": "and Interior Decor",
+  
+  "previewHeaderLeft": "Home Collection",
+  "previewHeaderRight": "Business Style",
+  "previewdesc":
+    "This can include a wide range of items, such as furniture,home decor, bedding, kitchen and dining items, and more.",
+  "previewBtn": "READ MORE",
+
+  "homeProducthead": "online store",
+  "homeProductHead": "Future Collection",
+  "homeProductBtn": "Add to cart",
+
+  "softSeatHead": "Soft Leather Chair",
+  "softSeathead": "«Vanilla Seat»",
+"checkclose":"Close",
+  "capabilityFree": "Free shipping",
+  "capabilityFreeDesc": "Delivery without additional charge to the customer.",
+  "capabilityGuar": "5 Years Guarantee",
+  "capabilityGuarDesc": "Protection for customers against faulty products.",
+  "capabilityDiscount": "Discount System",
+  "capabilityDiscountDesc":
+    "The program is now offering reduced prices to loyal customers.",
+  "capabilityOnline": "Online Payments",
+  "capabilityOnlineDesc":
+    "Effortless and secure digital transactions for e-commerce convenience.",
+  "capabilityCertificate": "Certified Products",
+  "capabilityCertificateDesc":
+    "A certified product guarantees superior quality and utmost safety assurance.",
+  "capabilitySupport": "Good Support",
+  "capabilitySupportDesc":
+    "We are known for providing excellent and reliable customer support.",
+
+  "offerhead": "Get our design offer",
+  "offerName":"Name",
+    "offerEmail":"Email",
+      "offerPass":"Password",
+      "offerBtn":"SEND REQUEST",
+  "offerHead": "Exquisite solutions by leading designers of our agency ",
+
+  "bloghead": "our blog",
+  "blogHead": "Recent Articles",
+  "blogDate": "December 9, 2023",
+  "blogHead1": "Home Textiles: Details Which Form a Space",
+  "blogDesc1":
+    "Home textiles are an essential component of interior design, as they add warmth, texture, and personality to a space",
+  "blogHead2": "Variety of Interior Styles and Office Furniture",
+  "blogDesc2":
+    "Interior design is all about creating a space that reflects your personal style and meets your functional needs",
+  "blogHead3": "Most signficant architectural projects",
+  "blogDesc3":
+    "These projects not only serve as landmarks but also represent the vision and creativity of their architects,pushing and boundaries of what is possible in architecture",
+  "blogHead4": "Seven Brilliant Ways to Advertise Interior and Industrial Design",
+  "blogDesc4":
+    "Advertising is a crucial part of any business, and the world of interior and industrial design is no exception",
+  "blogHead5": "The Biggest Contribution of Home",
+  "blogDesc5":
+    "Furniture is an essential part of our daily lives, and it has contributed greatly to our well-being and productivity in both our homes and offices",
+
+  "blogHead6": "Five Things You Should Know About Modern Furniture",
+  "blogDesc6":
+    "Modern furniture has become increasingly popular in recent years due to its sleek and minimalist designs",
+
+  "newsHead": "Subscribe for Members",
+  "newshead": "to Receive Latest News and Special Offers",
+  "newsBtn": "SUBSCRIBE",
+
+  "footercol2": "Explore",
+  "footerlist1": " Articles",
+  "footerlist2": " Team",
+  "footerlist3": " Clients",
+  "footerlist4": "Contacts",
+  "footercol3": "Latest",
+  "footerlist5": "Privacy & Policy",
+  "footerlist6": "Terms of Service",
+  "footerlist7": "Pricing",
+
+  "copyRight": "Like-themes",
+  "copyRight2": "All Rights Reserved ",
+  "copyRightEnd": "Purchase",
+
+  "testimonialhead": "partners",
+  "testimonialHead": "Top Clients Reviews",
+  "testimonialUser1":
+    "'I was looking for a unique accent rug for my living room and found the perfect one on an e-commerce home decor site. It arrived quickly and was even more beautiful in person than in the photos'",
+  "testimonialPosition1": "Developer",
+  "testimonialUser2":
+    "'I was redecorating my bedroom and found the perfect duvet cover on an online home decor store. The site was easy to navigate, and the ordering process was simple. I received my order within a few days and the product was exactly what I was looking for.'",
+  "testimonialPosition2": "Freelancer",
+  "testimonialUser3":
+    "'I have ordered several items from an online home decor store, including a mirror and a set of lamps. All of the products were of excellent quality and arrived in perfect condition. I will definitely be shopping from this store again in the future.'",
+  "testimonialPosition3": "Manager",
+
+  "teamHead": "All Team",
+  "teamUser1": "Photographer",
+  "teamUser2": "Designer",
+  "teamUser3": "Architect",
+
+  "faqHead": "Frequently Asked Questions",
+  "faqHelpHead": "Every day help for our customers",
+  "faqHelpDesc":
+    "The website could feature a blog or section dedicated to providing tips and advice for customers who want to decorate their homes. This could include ideas for organizing small spaces, selecting color palettes, choosing furniture and decor, and more.",
+  "faqHelpList1": "Managment",
+  "faqHelpList2": "Analytics",
+  "faqHelpList3": "Consultation",
+  "faqHelpList4": "Engineering",
+  "faqBtn": "MORE İNFO",
+
+  "faqQuestion1": "What is Home Decor Web Site?",
+  "faqAnswer1":
+    "Home Decor Web Site is an online store that offers a variety of home decor products.",
+  "faqQuestion2": "What kind of products does Home Decor Web Site offer?",
+  "faqAnswer2":
+    "Home Decor Web Site offers a wide range of home decor products including furniture, lighting, rugs, and home accessories.",
+  "faqQuestion3": "How can I place an order?",
+  "faqAnswer3":
+    "You can place an order by selecting the product you want and adding it to your shopping cart. Then you can proceed to checkout and enter your payment and shipping information.",
+  "faqQuestion4": "What payment methods do you accept?",
+  "faqAnswer4":
+    "We accept all major credit cards as well as PayPal and Apple Pay.",
+  "faqQuestion5": "What is your return policy?",
+  "faqAnswer5":
+    "We offer a 30-day return policy for all products. If you are not satisfied with your purchase, you can return it for a full refund or exchange.",
+  "faqQuestion6": "How can I contact customer support?",
+  "faqAnswer6":
+    "You can contact customer support by emailing us at support@homedecor.com or by calling our toll-free number at 1-800-123-4567.",
+  "faqQuestion7": "Can I cancel my order?",
+  "faqAnswer7":
+    "Yes, you can cancel your order as long as it has not yet been shipped. Please contact customer support to cancel your order.",
+  "faqQuestion8": "Do you offer international shipping?",
+  "faqAnswer8":
+    "Yes, we offer international shipping to select countries. Please check our shipping policy for more information.",
+
+  "galleryImg1": "Architecture",
+  "galleryImg2": "Decoration",
+  "galleryImg3": "Furniture",
+  "galleryImg4": "Home Interior",
+  "galleryImg5": "Interior Design",
+
+  "productsHead": "All Products",
+  "productsCategory": "CATEGORIES",
+  "productsCategory1": "Mattresses",
+  "productsCategory2": "Home Interior",
+  "productsCategory3": "Interior",
+    "productsCategory3s": "Uncategorized",
+        "productsCategory3d": "Decoration",
+  "productsCategory4": "Furniture",
+  "productsViewBtn": " Quick view",
+  "productSearch1": "Showing 1–9 of 24 results",
+  "productDefault": "Default sorting:",
+  "productSale":"SALE",
+
+  "cartHead": "Cart",  "wishHead":" Wishlist",
+  "cartProduct": "Product",
+  "cartPrice": "Price",
+  "cartQuantity": "Quantity",
+  "cartSubtotal": "Subtotal",
+  "cartTotals": "CART TOTALS",
+  "cartShip": "Shipping",
+  "cartLocal": "Local Pickup",
+  "cartCheck": "Proceed check out",
+  "cartT": "TOTAL",
+  "cartEmpty": "Empty Cart",
+
+  "checkoutHead": "Billing details",
+  "checkoutName": "First name",
+  "checkoutLastName": "Last name",
+  "checkoutCompany": "Company name (Optional)",
+  "checkoutEmail": "Email (Optional)",
+  "checkoutAddress": "Address",
+  "checkoutCountry": "Country",
+  "checkoutbtn1": "Shipping address is the same as my billing address",
+  "checkoutbtn2": "Save this information for next time",
+  "checkoutPay": "Payment",
+  "checkoutPayCredit": "Credit card",
+  "checkoutPayDebet": "Debet card",
+  "checkoutPal": "PayPal",
+  "checkoutN": "Name on card",
+  "checkoutC": "Credit card number",
+  "checkoutExp": "Full name as displayed on card",
+  "checkoutExpire": "Expiration",
+  "checkoutButton": "Continue to checkout",
+  "checkModal":"Confirmation",
+  "checkMessage":"Operation completed successfully!",
+
+  "loginPass": "Password",
+  "loginUser": "Email",
+  "loginKeep": "Keep me signed in",
+  "loginForgot": "Forgot password?",
+  "loginSign": "Sign In",
+
+  "notFoundHead": "Oops! Page Not Found",
+  "notFoundDesc":
+    "The page you are looking for was moved, removed,renamed or might never existed.",
+  "notFoundBtn": "HOME PAGE",
+
+  "contactHead": "Contact Us",
+  "contactCard1": "Location",
+  "contactCard2": "Phones",
+  "contactCard3": "Email",
+    "contactCard4": "Working hours",
+
+  "contactForm": "Send Message",
+  "contactFormName": "Your Name",
+  "contactFormEmail": "Your Email",
+  "contactFormText":"Message",
+  "contactBtn": "SUBMIT"
+
+  
+
+  
+  
+
+
+
+
+
+}

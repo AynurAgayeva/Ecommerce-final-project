@@ -1,0 +1,248 @@
+@media screen and (max-width: 992px) {
+   .head {
+      form {
+        
+        .count-number {
+          position: absolute;
+                  left: 15px !important;
+          border-radius: 100%;
+          top: -5px !important;
+          width: 16px;
+          height: 16px;
+          line-height: 16px;
+          text-align: center;
+          font-size: 10px;
+          display: inline-block;
+          color: rgba(255, 255, 255, 1);
+          background-color: #ae9775;
+        }
+        .count-number2 {
+          position: absolute;
+     left: 40px !important;
+          border-radius: 100%;
+          top: -5px !important;
+          width: 16px;
+          height: 16px;
+          line-height: 16px;
+          text-align: center;
+          font-size: 10px;
+
+          color: rgba(255, 255, 255, 1);
+          background-color: #ae9775;
+        }
+      }
+    }
+  .hero {
+     .slick-dots{
+  margin-bottom: 30px;
+
+
+
+}
+    .main {
+      .main-left {
+        margin-top: 100px;
+        h1 {
+          text-align: center;
+          margin-bottom: 30px;
+          font-size: 48px;
+
+          line-height: 1.1;
+        }
+        h1:after {
+          display: none;
+        }
+        p {
+          text-align: center;
+          margin-bottom: 30px;
+          font-size: 14px;
+        }
+        .btn-con {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+      
+      }
+      .main-right{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+    margin-left: 180px;
+    padding-bottom: 20px;
+      }
+    }
+  }
+   table td {
+    /* TD hücrelerinin içeriğini sıkıştır */
+    padding: 100px;
+  }
+   .photo {
+    max-width: 40px;
+    height: auto;
+  }
+    td {
+    font-size: 13px;
+    padding: 6px 8px;
+  }
+
+  .btn {
+    padding: 2px 6px;
+    font-size: 12px;
+  }
+  .seat{
+    .seat-left{
+        h1,p, .price{
+            text-align: center;
+        }
+        .shop{
+            display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+    }
+  }
+   .footer-con{
+    .bg-footer{
+    
+        margin-left: 15px;
+        .olis{
+          text-align: center;
+          
+          a{
+            justify-content: center;
+          }
+          .list{
+     justify-content: center;
+          }
+        }
+       .explore{
+        display: none;
+       }
+       .latest{
+        display: none;
+       }
+    }
+    .footer-end{
+
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  
+  .hero {
+   
+    .main {
+      .main-left {
+        h1 {
+          text-align: center;
+          margin-bottom: 30px;
+          font-size: 37px;
+        }
+        h1:after {
+          display: none;
+        }
+        p {
+          text-align: center;
+          margin-bottom: 30px;
+          font-size: 14px;
+        }
+        .btn-con{
+                  display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+      }
+      .main-right {
+         display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-left: 110px;
+      }
+    }
+  }
+   .seat{
+    .seat-left{
+        h1{
+            text-align: left;
+       color: #fff;
+ font-size: 37px !important;
+
+ 
+        }
+        .shop{
+          
+        display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+    }
+  }
+  .footer-con{
+    .bg-footer{
+        margin-left: 15px;
+       .explore{
+        display: none;
+       }
+       .latest{
+        display: none;
+       }
+    }
+  }
+  table {
+    /* Tablo genişliğini 100% olarak ayarla */
+    width: 100%;
+  }
+
+  table td {
+    /* TD hücrelerinin içeriğini sıkıştır */
+    padding: 8px;
+  }
+
+ 
+}
+@media (max-width: 600px) {
+  .hero {
+    .main {
+      .main-left {
+        h1 {
+          text-align: center;
+          margin-bottom: 30px;
+          font-size: 37px;
+        }
+        h1:after {
+          display: none;
+        }
+        p {
+          text-align: center;
+          margin-bottom: 30px;
+          font-size: 14px;
+        }
+        .btn-con{
+                  display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+      }
+      .main-right {
+         display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-left: 70px;
+      }
+    }
+  }
+   .seat{
+    .seat-left{
+        h1{
+            text-align: left;
+       color: #fff;
+ font-size: 37px;
+
+ 
+        }
+        
+    }
+  }
+}

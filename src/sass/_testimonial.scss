@@ -1,0 +1,75 @@
+ .testimonial{
+    .head{
+        p{
+    color: #B19777;
+        font-family: 'Pinyon Script', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    text-transform: lowercase;
+        }
+        h1{
+    line-height: 1.3em;
+
+    z-index: 3;
+    position: relative;
+    margin: 0;
+
+    
+    
+    font-weight: 700;
+  
+
+
+    font-size: 48px;
+        
+    }
+
+    
+}
+
+
+.test-con{
+        .carousel-inner{
+            .carousel-item{
+                .text-center{
+ i{
+color: #B19777;
+font-size: 40px;
+ }
+                
+            
+            }
+            .lead{
+                font-style: italic;
+                    display: block;
+  
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px 30px 20px;
+    margin-bottom: 0;
+    line-height: 1.6em;
+    color: #181818;
+    font-family: 'Open Sans', sans-serif;
+   
+   
+            }
+            .image{
+                font-size: 12px;
+                img{
+                    border-radius: 50%;
+                   
+                }
+            }
+            h6{
+                color: black;
+                font-weight: bold;
+                
+            }
+            p{
+                color: #B19777;
+            }
+            }
+           
+        }
+    }}

@@ -1,0 +1,253 @@
+{
+  "lang": "RU",
+  "menu1": "Дом",
+  "menu2": "O нас",
+  "dropmenu1": "Отзывы",
+  "dropmenu2": "Команда",
+  "dropmenu3": "FAQ",
+  "dropmenu4": "Галерея",
+  "menu3": "Блог",
+  "menu4": "Продукты",
+  "dropmenu5": "Магазин",
+    "dropmenu6": "Корзина",
+  "dropmenu7": "Проверить",
+  "dropmenu8": "Мой счет",
+  "menu5": "Страницы",
+  "menu6": "Контакт",
+  "menu7": "Авторизоваться",
+  "menu8": "Выйти",
+  "menu9": "Поиск продукта",
+    "bannerHead": " Мебель &",
+  "bannerhead": "Дизайна интерьера",
+  "bannerdesc":
+"Для каждого проекта мы устанавливаем отношения с партнерами, которые, как мы знаем, помогут нам создать дополнительную ценность для вашего проекта", 
+ "bannerbtn": "КУПИТЬ СЕЙЧАС",
+  "bannerHead2": "Эксклюзивный &",
+  "bannerhead2": "Кожаная интерьера ",
+  "bannerHead3": "Планирование &",
+  "bannerhead3": "и декор интерьера",
+  
+  "previewHeaderLeft": "Домашняя коллекция",
+  "previewHeaderRight": "Деловой стиль",
+  "previewdesc":
+"Это может включать в себя широкий спектр предметов, таких как мебель, домашний декор, постельные принадлежности, кухонные и обеденные принадлежности и многое другое" ,
+ "previewBtn": "ЧИТАТЬ ДАЛЕЕ",
+
+  "homeProducthead": "Интернет-магазин",
+  "homeProductHead": "Будущая коллекция",
+  "homeProductBtn": "Добавить в корзину",
+
+  "softSeatHead": "Мягкое кожаное кресло",
+  "softSeathead": "«Ванильное сиденье»",
+
+  "capabilityFree": "Бесплатная доставка",
+  "capabilityFreeDesc": "Доставка без дополнительной оплаты для клиента.",
+  "capabilityGuar": "5 лет гарантии",
+  "capabilityGuarDesc": "Защита клиентов от бракованной продукции.",
+  "capabilityDiscount": "Система скидок",
+  "capabilityDiscountDesc":
+    "Теперь программа предлагает сниженные цены для постоянных клиентов..",
+  "capabilityOnline": "Онлайн-платежи",
+  "capabilityOnlineDesc":
+    "Легкие и безопасные цифровые транзакции для удобства электронной коммерции.",
+  "capabilityCertificate": "Сертифицированные продукты",
+  "capabilityCertificateDesc":
+    "Сертифицированный продукт гарантирует превосходное качество и максимальную безопасность.",
+  "capabilitySupport": "Хорошая поддержка",
+  "capabilitySupportDesc":
+    "Мы известны тем, что предоставляем отличную и надежную поддержку клиентов.",
+
+  "offerhead": "Получите наше дизайнерское предложение",
+  "offerName":"Имя",
+    "offerEmail":"Электронная почта",
+      "offerPass":"Пароль",
+      "offerBtn":"ПОСЛАТЬ ЗАПРОС",
+  "offerHead": "Изысканные решения ведущих дизайнеров нашего агентства ",
+
+  "bloghead": "наш блог",
+  "blogHead": "Последние статьи",
+  "blogDate": "December 9, 2023",
+  "blogHead1": "Home Textiles: Details Which Form a Space",
+  "blogDesc1":
+    "Home textiles are an essential component of interior design, as they add warmth, texture, and personality to a space",
+  "blogHead2": "Variety of Interior Styles and Office Furniture",
+  "blogDesc2":
+    "Interior design is all about creating a space that reflects your personal style and meets your functional needs",
+  "blogHead3": "Most signficant architectural projects",
+  "blogDesc3":
+    "These projects not only serve as landmarks but also represent the vision and creativity of their architects,pushing and boundaries of what is possible in architecture",
+  "blogHead4": "Seven Brilliant Ways to Advertise Interior and Industrial Design",
+  "blogDesc4":
+    "Advertising is a crucial part of any business, and the world of interior and industrial design is no exception",
+  "blogHead5": "The Biggest Contribution of Home",
+  "blogDesc5":
+    "Furniture is an essential part of our daily lives, and it has contributed greatly to our well-being and productivity in both our homes and offices",
+
+  "blogHead6": "Five Things You Should Know About Modern Furniture",
+  "blogDesc6":
+    "Modern furniture has become increasingly popular in recent years due to its sleek and minimalist designs",
+
+  "newsHead": "Подпишитесь на членов",
+  "newshead": "чтобы получать последние новости и специальные предложения",
+  "newsBtn": "ПОДПИСАТЬСЯ",
+
+  "footercol2": "Исследовать",
+  "footerlist1": " Статьи",
+  "footerlist2": " Команда",
+  "footerlist3": " Клиенты",
+  "footerlist4": "Контакты",
+  "footercol3": "Последний",
+  "footerlist5": "Политика конфиденциальности",
+  "footerlist6": "Terms of Service",
+  "footerlist7": "Цены",
+
+  "copyRight": "Нравится-темы",
+  "copyRight2": "Все права защищены ",
+  "copyRightEnd": "Покупка",
+
+  "testimonialhead": "партнеры",
+  "testimonialHead": "Лучшие отзывы клиентов",
+  "testimonialUser1":
+    "'Я искал уникальный акцентный ковер для своей гостиной и нашел идеальный на сайте домашнего декора электронной коммерции. Он прибыл быстро и был еще красивее лично, чем на фотографиях'",
+  "testimonialPosition1": "Разработчик",
+  "testimonialUser2":
+    "'Я ремонтировала свою спальню и нашла идеальный пододеяльник в интернет-магазине домашнего декора. На сайте было легко ориентироваться, и процесс заказа был простым. Я получил свой заказ в течение нескольких дней, и продукт был именно тем, что я искал.'",
+  "testimonialPosition2": "Фрилансер",
+  "testimonialUser3":
+    "'Я заказал несколько предметов в интернет-магазине домашнего декора, в том числе зеркало и набор ламп. Все товары были отличного качества и прибыли в целости и сохранности. Я определенно буду делать покупки в этом магазине снова в будущем.'",
+  "testimonialPosition3": "Менеджер",
+
+  "teamHead": "Вся команда",
+  "teamUser1": "Фотограф",
+  "teamUser2": "Дизайнер",
+  "teamUser3": "Архитектор",
+
+  "faqHead": "Часто задаваемые вопросы",
+  "faqHelpHead": "Ежедневная помощь нашим клиентам",
+  "faqHelpDesc":
+    "На веб-сайте может быть блог или раздел, посвященный совету и совету для клиентов, которые хотят украсить свой дом. Это могут быть идеи по организации небольших пространств, выбор цветовой палитры, выбор мебели и декора и многое другое.",
+  "faqHelpList1": "Управление",
+  "faqHelpList2": "Аналитика",
+  "faqHelpList3": "Консультация",
+  "faqHelpList4": "Инжиниринг",
+  "faqBtn": "БОЛЬШЕ ИНФОРМАЦИИ",
+
+  "faqQuestion1": "What is Home Decor Web Site?",
+  "faqAnswer1":
+    "Home Decor Web Site is an online store that offers a variety of home decor products.",
+  "faqQuestion2": "What kind of products does Home Decor Web Site offer?",
+  "faqAnswer2":
+    "Home Decor Web Site offers a wide range of home decor products including furniture, lighting, rugs, and home accessories.",
+  "faqQuestion3": "How can I place an order?",
+  "faqAnswer3":
+    "You can place an order by selecting the product you want and adding it to your shopping cart. Then you can proceed to checkout and enter your payment and shipping information.",
+  "faqQuestion4": "What payment methods do you accept?",
+  "faqAnswer4":
+    "We accept all major credit cards as well as PayPal and Apple Pay.",
+  "faqQuestion5": "What is your return policy?",
+  "faqAnswer5":
+    "We offer a 30-day return policy for all products. If you are not satisfied with your purchase, you can return it for a full refund or exchange.",
+  "faqQuestion6": "How can I contact customer support?",
+  "faqAnswer6":
+    "You can contact customer support by emailing us at support@homedecor.com or by calling our toll-free number at 1-800-123-4567.",
+  "faqQuestion7": "Can I cancel my order?",
+  "faqAnswer7":
+    "Yes, you can cancel your order as long as it has not yet been shipped. Please contact customer support to cancel your order.",
+  "faqQuestion8": "Do you offer international shipping?",
+  "faqAnswer8":
+    "Yes, we offer international shipping to select countries. Please check our shipping policy for more information.",
+
+  "galleryImg1": "Архитектура",
+  "galleryImg2": "Украшение",
+  "galleryImg3": "Мебель",
+  "galleryImg4": "Домашний интерьер",
+  "galleryImg5": "Дизайн интерьера",
+
+  "productsHead": "Все продукты",
+  "productsCategory": "КАТЕГОРИИ",
+  "productsCategory1": "Матрасы",
+  "productsCategory2": "Домашний интерьер",
+  "productsCategory3": "Интерьер",
+  "productsCategory4": "Мебель",
+  "productsViewBtn": " Быстрый просмотр",
+  "productSearch1": "Showing 1–9 of 24 results",
+  "productDefault": "Default sorting:",
+  "productSale":"РАСПРОДАЖА",
+
+  "cartHead": "Корзина",
+  "cartProduct": "Продукт",
+  "cartPrice": "Цена",
+  "cartQuantity": "Количество",
+  "cartSubtotal": "Промежуточный итог",
+  "cartTotals": "ИТОГО КОРЗИНЫ",
+  "cartShip": "Перевозки",
+  "cartLocal": "Местный пикап",
+  "cartCheck": "Продолжить проверку",
+  "cartT": "ОБЩИЙ",
+  "cartEmpty": "Пустая корзина",
+
+  "checkoutHead": "Платежные реквизиты",
+  "checkoutName": "Имя",
+  "checkoutLastName": "Фамилия",
+  "checkoutCompany": "Название компании (по желанию)",
+  "checkoutEmail": "Электронная почта (необязательно)",
+  "checkoutAddress": "Адрес",
+  "checkoutCountry": "Страна",
+  "checkoutbtn1": "Адрес доставки совпадает с моим платежным адресом",
+  "checkoutbtn2": "Сохраните эту информацию для следующего раза",
+  "checkoutPay": "Оплата",
+  "checkoutPayCredit": "Кредитная карта",
+  "checkoutPayDebet": "Дебетовая карточка",
+  "checkoutPal": "PayPal",
+  "checkoutN": "Имя на карте",
+  "checkoutC": "Номер кредитной карты",
+  "checkoutExp": "Полное имя, отображаемое на карточке",
+  "checkoutExpire": "Срок действия",
+  "checkoutButton": "Продолжить оформление заказа",
+    "checkModal":"Подтверждение",
+  "checkMessage":"Операция завершена успешно!",
+  "checkclose":"Закрывать",
+
+  "loginPass": "Пароль",
+  "loginUser": "Электронная почта",
+  "loginKeep": "Держите меня в системе",
+  "loginForgot": "Забыли пароль?",
+  "loginSign": "Войти",
+
+  "notFoundHead": "Ой! Страница не найдена",
+  "notFoundDesc":
+    "Страница, которую вы ищете, была перемещена, удалена, переименована или, возможно, никогда не существовала.",
+  "notFoundBtn": "ГЛАВНАЯ СТРАНИЦА",
+
+  "contactHead": "Связаться с нами",
+  "contactCard1": "Расположение",
+  "contactCard2": "Телефоны",
+  "contactCard3": "Электронная почта",
+    "contactCard4": "Рабочее время",
+
+  "contactForm": "Отправить сообщение",
+  "contactFormName": "Ваше имя",
+  "contactFormEmail": "Your Email",
+  "contactFormText":"Message",
+  "contactBtn": "SUBMIT"
+
+
+
+
+
+
+
+
+
+
+
+
+}
+  
+
+  
+  
+
+
+
+

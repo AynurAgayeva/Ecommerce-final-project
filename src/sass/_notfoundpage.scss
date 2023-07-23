@@ -1,0 +1,50 @@
+.notfoundpage{
+.page{
+       width: 100%;
+    background-image: url("../images/bg-all.jpg");
+    background-attachment: fixed;
+       h1{
+font-size: 48px;
+font-weight: 700;
+z-index: 11;
+    line-height: 1.15em;
+    color: #fff;
+    margin-bottom: 30px;
+        }
+         p{
+a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #B19777;
+   
+}
+ i{
+        color: #fff;
+        font-size: 13px ;
+    }
+span{
+
+    font-size: 16px;
+    color: #fff;
+}
+        }
+}
+h1{
+        font-size: 50px;
+    line-height: 1.3em;
+    color: #B19777;
+    font-weight: 700;
+}
+p{
+    line-height: 1.5rem;
+}
+.pagenot{
+    background-color: #000;
+    color: #fff;
+    padding: 15px 25px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+}
