@@ -2,13 +2,13 @@ import firebase from "firebase/app";
 import "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCv0R4IjeF9g89R0oRsvLMS5ricnty3Jl8",
-  authDomain: "ollis-project.firebaseapp.com",
-  databaseURL: "https://ollis-project-default-rtdb.firebaseio.com",
-  projectId: "ollis-project",
-  storageBucket: "ollis-project.appspot.com",
-  messagingSenderId: "225429164453",
-  appId: "1:225429164453:web:e87a09081217d24fd3d84c"
+  apiKey: "AIzaSyABozcUs2_THSeujngIErJOxJO8eQDDYBw",
+  authDomain: "e-commerce-project-263ba.firebaseapp.com",
+  databaseURL: "https://e-commerce-project-263ba-default-rtdb.firebaseio.com",
+  projectId: "e-commerce-project-263ba",
+  storageBucket: "e-commerce-project-263ba.appspot.com",
+  messagingSenderId: "1068346666812",
+  appId: "1:1068346666812:web:8a95623f0a81be29333839"
 };
 
 // Initialize Firebase
